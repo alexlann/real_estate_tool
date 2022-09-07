@@ -1,0 +1,70 @@
+.btn {
+    border-radius: 999px;
+}
+
+.btn-green {
+    background: var(--color-green);
+    color: var(--color-white);
+}
+
+.btn-green:hover {
+    background: var(--color-light-green);
+}
+
+.btn-gray, .btn-delete, .btn-edit {
+    background: var(--color-gray);
+    color: var(--color-green);
+}
+
+.btn-like {
+    color: var(--color-white);
+}
+
+.btn-dislike {
+    color: var(--color-green);
+}
+
+.btn-delete {
+    color: var(--color-red);
+}
+
+.btn-edit {
+    color: var(--color-orange);
+}
+
+.btn-gray:hover, .btn-delete:hover, .btn-edit:hover {
+    color: var(--color-black);
+}
+
+.btn-lg {
+    padding: 0 25px;
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.btn-md {
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.btn-sm {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-outline {
+    color: var(--color-green);
+    border: 1px solid var(--color-green);
+    padding-bottom: 0.5rem;
+}
+
+.btn-outline:hover {
+    color: var(--color-black);
+    border: 1px solid var(--color-black);
+}

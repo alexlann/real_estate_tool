@@ -1,0 +1,199 @@
+{
+    "onboarding": {
+        "login": {
+            "title": "Login",
+            "checking": "Don't have an account yet?",
+            "register": "Register",
+            "button": "Login"
+        },
+        "register": {
+            "title": "Register",
+            "checking": "Already have an account?",
+            "login": "Log in",
+            "button": "Register"
+        }
+    },
+    "navigation": {
+        "properties": "Properties",
+        "categories": "Categories",
+        "agencies": "Agencies",
+        "users": "Users",
+        "likes": "Likes",
+        "messages": "Messages",
+        "profile": "Profile",
+        "dashboard": "Dashboard",
+        "login": "Log in",
+        "logout": "Log out"
+    },
+    "properties": {
+        "title": "Properties",
+        "overview": {
+            "title": "Properties",
+            "counts": "properties",
+            "count": "property",
+            "create": "Create property",
+            "mo": "mo",
+            "nothing": "No properties yet",
+            "filter": "Filter"
+        },
+        "detail": {
+            "title": "Properties",
+            "details": "Details",
+            "contact": "Contact",
+            "agency": "Agency",
+            "mo": "mo"
+        },
+        "create": {
+            "title": "Create property"
+        },
+        "edit": {
+            "title": "Edit property"
+        },
+        "fields": {
+            "contact": "Contact person"
+        }
+    },
+    "categories": {
+        "title": "Categories",
+        "overview": {
+            "title": "Categories",
+            "counts": "categories",
+            "count": "category",
+            "create": "Create category",
+            "nothing": "No categories yet"
+        },
+        "create": {
+            "title": "Create category"
+        },
+        "edit": {
+            "title": "Edit category"
+        }
+    },
+    "agencies": {
+        "title": "Agencies",
+        "overview": {
+            "title": "Agencies",
+            "counts": "agencies",
+            "count": "agency",
+            "create": "Create agency",
+            "nothing": "No agencies yet"
+        },
+        "create": {
+            "title": "Create agency"
+        },
+        "edit": {
+            "title": "Edit agency",
+            "profile": "Edit profile"
+        }
+    },
+    "messages": {
+        "title": "Messages",
+        "overview": {
+            "title": "Messages",
+            "counts": "messages",
+            "count": "message",
+            "unread": "unread",
+            "create": "Create message",
+            "mo": "mo",
+            "nothing": "No messages yet"
+        },
+        "detail": {
+            "view": "View property",
+            "delete": "Delete",
+            "mo": "mo"
+        }
+    },
+    "likes": {
+        "title": "Likes",
+        "overview": {
+            "title": "Likes",
+            "counts": "likes",
+            "count": "like",
+            "create": "Create like",
+            "edit": "Edit like",
+            "nothing": "No likes yet"
+        }
+    },
+    "users": {
+        "title": "Users",
+        "overview": {
+            "title": "Users",
+            "counts": "users",
+            "count": "user",
+            "create": "Create user",
+            "nothing": "No users yet"
+        },
+        "create": {
+            "title": "Create user"
+        },
+        "edit": {
+            "title": "Edit user",
+            "profile": "Edit profile",
+            "password_print": "Leave blank if you don't want to change the password"
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "users": {
+            "counts": "users",
+            "count": "user"
+        },
+        "properties": {
+            "counts": "properties",
+            "count": "property"
+        },
+        "profile": "Profile",
+        "messages": {
+            "counts": "messages",
+            "count": "message"
+        },
+        "unread": "unread"
+    },
+    "buttons": {
+        "create": "Create",
+        "edit": "Edit",
+        "save": "Save",
+        "send": "Send",
+        "sale": "For sale",
+        "rent": "For rent",
+        "sold": "Sold",
+        "rented": "Rented"
+    },
+    "fields": {
+        "id": "Id",
+        "email": "Email",
+        "avatar": "Avatar",
+        "name": "Name",
+        "firstname": "First name",
+        "lastname": "Last name",
+        "password": "Password",
+        "phonenumber": "Phone number",
+        "title": "Title",
+        "town": "Town",
+        "price": "Price",
+        "street": "Street",
+        "surfaceArea": "Surface area",
+        "buildYear": "Build year",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "property": "Property",
+        "category": "Category",
+        "agency": "Agency",
+        "message": "Message",
+        "like": "Like",
+        "user": "User",
+        "role": "Role",
+        "description": "Description",
+        "date": "Date",
+        "time": "Time",
+        "image": "Image",
+        "rent": "Rent",
+        "sale": "Sale",
+        "ask": "Ask a question...",
+        "soldRented": "Sold/Rented",
+        "forSaleRent": "For Sale/For Rent",
+        "lowestPrice": "Lowest Price",
+        "highestPrice": "Highest Price",
+        "isSold": "Is sold/rented"
+    }
+}
